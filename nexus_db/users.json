@@ -1,0 +1,6 @@
+[
+  {"id": 1, "name": "David Kotowsky", "email": "david@hydrologychicago.com", "role": "admin"},
+  {"id": 2, "name": "Sarah Chen",     "email": "sarah@hydrologychicago.com", "role": "manager"},
+  {"id": 3, "name": "Mike Torres",    "email": "mike@hydrologychicago.com",  "role": "warehouse"},
+  {"id": 4, "name": "Jen Park",       "email": "jen@hydrologychicago.com",   "role": "warehouse"}
+]

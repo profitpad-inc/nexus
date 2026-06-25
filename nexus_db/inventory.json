@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "branch_id": 1,
+    "qty_on_hand": 8,
+    "qty_reserved": 2,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 2,
+    "product_id": 2,
+    "branch_id": 1,
+    "qty_on_hand": 6,
+    "qty_reserved": 1,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 3,
+    "product_id": 3,
+    "branch_id": 1,
+    "qty_on_hand": 4,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 4,
+    "product_id": 4,
+    "branch_id": 1,
+    "qty_on_hand": 5,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 5,
+    "product_id": 5,
+    "branch_id": 1,
+    "qty_on_hand": 3,
+    "qty_reserved": 1,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 6,
+    "product_id": 6,
+    "branch_id": 1,
+    "qty_on_hand": 2,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 7,
+    "product_id": 7,
+    "branch_id": 1,
+    "qty_on_hand": 3,
+    "qty_reserved": 1,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 8,
+    "product_id": 8,
+    "branch_id": 1,
+    "qty_on_hand": 2,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 9,
+    "product_id": 9,
+    "branch_id": 1,
+    "qty_on_hand": 4,
+    "qty_reserved": 2,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 10,
+    "product_id": 10,
+    "branch_id": 1,
+    "qty_on_hand": 1,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 11,
+    "product_id": 11,
+    "branch_id": 1,
+    "qty_on_hand": 2,
+    "qty_reserved": 1,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 12,
+    "product_id": 12,
+    "branch_id": 1,
+    "qty_on_hand": 3,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 13,
+    "product_id": 13,
+    "branch_id": 1,
+    "qty_on_hand": 1,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 14,
+    "product_id": 14,
+    "branch_id": 1,
+    "qty_on_hand": 6,
+    "qty_reserved": 2,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 15,
+    "product_id": 15,
+    "branch_id": 1,
+    "qty_on_hand": 4,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 16,
+    "product_id": 16,
+    "branch_id": 1,
+    "qty_on_hand": 2,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 1
+  },
+  {
+    "id": 17,
+    "product_id": 17,
+    "branch_id": 1,
+    "qty_on_hand": 5,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 18,
+    "product_id": 18,
+    "branch_id": 1,
+    "qty_on_hand": 4,
+    "qty_reserved": 1,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 19,
+    "product_id": 19,
+    "branch_id": 1,
+    "qty_on_hand": 3,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 20,
+    "product_id": 20,
+    "branch_id": 1,
+    "qty_on_hand": 2,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 21,
+    "product_id": 1,
+    "branch_id": 2,
+    "qty_on_hand": 3,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 22,
+    "product_id": 2,
+    "branch_id": 2,
+    "qty_on_hand": 2,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 23,
+    "product_id": 4,
+    "branch_id": 2,
+    "qty_on_hand": 2,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 24,
+    "product_id": 9,
+    "branch_id": 2,
+    "qty_on_hand": 2,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  },
+  {
+    "id": 25,
+    "product_id": 14,
+    "branch_id": 2,
+    "qty_on_hand": 3,
+    "qty_reserved": 0,
+    "qty_in_transit": 0,
+    "qty_damaged": 0
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {"id": 1,  "aisle_id": 1, "label": "A1-1", "capacity": 20},
+  {"id": 2,  "aisle_id": 1, "label": "A1-2", "capacity": 20},
+  {"id": 3,  "aisle_id": 1, "label": "A1-3", "capacity": 20},
+  {"id": 4,  "aisle_id": 2, "label": "A2-1", "capacity": 20},
+  {"id": 5,  "aisle_id": 2, "label": "A2-2", "capacity": 20},
+  {"id": 6,  "aisle_id": 2, "label": "A2-3", "capacity": 20},
+  {"id": 7,  "aisle_id": 3, "label": "B1-1", "capacity": 10},
+  {"id": 8,  "aisle_id": 3, "label": "B1-2", "capacity": 10},
+  {"id": 9,  "aisle_id": 4, "label": "B2-1", "capacity": 8},
+  {"id": 10, "aisle_id": 4, "label": "B2-2", "capacity": 8},
+  {"id": 11, "aisle_id": 5, "label": "C1-1", "capacity": 15},
+  {"id": 12, "aisle_id": 5, "label": "C1-2", "capacity": 15},
+  {"id": 13, "aisle_id": 6, "label": "C2-1", "capacity": 15},
+  {"id": 14, "aisle_id": 6, "label": "C2-2", "capacity": 15},
+  {"id": 15, "aisle_id": 7, "label": "D1-1", "capacity": 25},
+  {"id": 16, "aisle_id": 7, "label": "D1-2", "capacity": 25},
+  {"id": 17, "aisle_id": 8, "label": "A1-1", "capacity": 20},
+  {"id": 18, "aisle_id": 8, "label": "A1-2", "capacity": 20},
+  {"id": 19, "aisle_id": 9, "label": "B1-1", "capacity": 15},
+  {"id": 20, "aisle_id": 9, "label": "B1-2", "capacity": 15}
+]

@@ -1,0 +1,22 @@
+[
+  {"id": 1,  "product_id": 1,  "shelf_id": 1,  "is_primary": true},
+  {"id": 2,  "product_id": 2,  "shelf_id": 1,  "is_primary": true},
+  {"id": 3,  "product_id": 3,  "shelf_id": 2,  "is_primary": true},
+  {"id": 4,  "product_id": 4,  "shelf_id": 2,  "is_primary": true},
+  {"id": 5,  "product_id": 5,  "shelf_id": 3,  "is_primary": true},
+  {"id": 6,  "product_id": 6,  "shelf_id": 3,  "is_primary": true},
+  {"id": 7,  "product_id": 7,  "shelf_id": 4,  "is_primary": true},
+  {"id": 8,  "product_id": 8,  "shelf_id": 4,  "is_primary": true},
+  {"id": 9,  "product_id": 9,  "shelf_id": 7,  "is_primary": true},
+  {"id": 10, "product_id": 10, "shelf_id": 8,  "is_primary": true},
+  {"id": 11, "product_id": 11, "shelf_id": 7,  "is_primary": true},
+  {"id": 12, "product_id": 12, "shelf_id": 9,  "is_primary": true},
+  {"id": 13, "product_id": 13, "shelf_id": 10, "is_primary": true},
+  {"id": 14, "product_id": 14, "shelf_id": 11, "is_primary": true},
+  {"id": 15, "product_id": 15, "shelf_id": 11, "is_primary": true},
+  {"id": 16, "product_id": 16, "shelf_id": 12, "is_primary": true},
+  {"id": 17, "product_id": 17, "shelf_id": 13, "is_primary": true},
+  {"id": 18, "product_id": 18, "shelf_id": 13, "is_primary": true},
+  {"id": 19, "product_id": 19, "shelf_id": 15, "is_primary": true},
+  {"id": 20, "product_id": 20, "shelf_id": 15, "is_primary": true}
+]

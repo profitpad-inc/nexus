@@ -1,0 +1,11 @@
+[
+  {"id": 1,  "zone_id": 1, "label": "A1"},
+  {"id": 2,  "zone_id": 1, "label": "A2"},
+  {"id": 3,  "zone_id": 2, "label": "B1"},
+  {"id": 4,  "zone_id": 2, "label": "B2"},
+  {"id": 5,  "zone_id": 3, "label": "C1"},
+  {"id": 6,  "zone_id": 3, "label": "C2"},
+  {"id": 7,  "zone_id": 4, "label": "D1"},
+  {"id": 8,  "zone_id": 5, "label": "A1"},
+  {"id": 9,  "zone_id": 6, "label": "B1"}
+]

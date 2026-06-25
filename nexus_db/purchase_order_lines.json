@@ -1,0 +1,18 @@
+[
+  {"id": 1, "po_id": 1, "product_id": 1,  "qty_ordered": 10, "qty_received": 10, "qty_damaged": 0, "shelf_id": 1,  "status": "received", "notes": null},
+  {"id": 2, "po_id": 1, "product_id": 2,  "qty_ordered": 8,  "qty_received": 8,  "qty_damaged": 0, "shelf_id": 1,  "status": "received", "notes": null},
+  {"id": 3, "po_id": 1, "product_id": 9,  "qty_ordered": 5,  "qty_received": 5,  "qty_damaged": 0, "shelf_id": 7,  "status": "received", "notes": null},
+
+  {"id": 4, "po_id": 2, "product_id": 6,  "qty_ordered": 4,  "qty_received": 0, "qty_damaged": 0, "shelf_id": null, "status": "pending", "notes": null},
+  {"id": 5, "po_id": 2, "product_id": 7,  "qty_ordered": 3,  "qty_received": 0, "qty_damaged": 0, "shelf_id": null, "status": "pending", "notes": null},
+  {"id": 6, "po_id": 2, "product_id": 8,  "qty_ordered": 3,  "qty_received": 0, "qty_damaged": 0, "shelf_id": null, "status": "pending", "notes": null},
+
+  {"id": 7, "po_id": 3, "product_id": 14, "qty_ordered": 6,  "qty_received": 0, "qty_damaged": 0, "shelf_id": null, "status": "pending", "notes": null},
+  {"id": 8, "po_id": 3, "product_id": 15, "qty_ordered": 4,  "qty_received": 0, "qty_damaged": 0, "shelf_id": null, "status": "pending", "notes": null},
+  {"id": 9, "po_id": 3, "product_id": 16, "qty_ordered": 3,  "qty_received": 0, "qty_damaged": 0, "shelf_id": null, "status": "pending", "notes": null},
+  {"id": 10,"po_id": 3, "product_id": 17, "qty_ordered": 5,  "qty_received": 0, "qty_damaged": 0, "shelf_id": null, "status": "pending", "notes": null},
+  {"id": 11,"po_id": 3, "product_id": 18, "qty_ordered": 4,  "qty_received": 0, "qty_damaged": 0, "shelf_id": null, "status": "pending", "notes": null},
+
+  {"id": 12,"po_id": 4, "product_id": 10, "qty_ordered": 2,  "qty_received": 0, "qty_damaged": 0, "shelf_id": null, "status": "pending", "notes": null},
+  {"id": 13,"po_id": 4, "product_id": 11, "qty_ordered": 3,  "qty_received": 0, "qty_damaged": 0, "shelf_id": null, "status": "pending", "notes": null}
+]

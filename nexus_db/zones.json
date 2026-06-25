@@ -1,0 +1,8 @@
+[
+  {"id": 1, "branch_id": 1, "name": "Faucets & Fixtures"},
+  {"id": 2, "branch_id": 1, "name": "Toilets & Tubs"},
+  {"id": 3, "branch_id": 1, "name": "Shower Systems"},
+  {"id": 4, "branch_id": 1, "name": "Cabinets & Accessories"},
+  {"id": 5, "branch_id": 2, "name": "Faucets & Fixtures"},
+  {"id": 6, "branch_id": 2, "name": "Mixed Fixtures"}
+]

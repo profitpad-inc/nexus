@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "so_number": "SO-2024-001",
+    "customer_name": "Studio McGee Design",
+    "customer_type": "designer",
+    "status": "picked",
+    "branch_id": 1,
+    "created_by": 1,
+    "created_at": "2024-03-11T10:00:00Z",
+    "notes": "Lakeview project \u2014 master bath"
+  },
+  {
+    "id": 2,
+    "so_number": "SO-2026-001",
+    "customer_name": "Northworks Architects",
+    "customer_type": "trade",
+    "status": "picked",
+    "branch_id": 1,
+    "created_by": 1,
+    "created_at": "2026-06-22T09:30:00Z",
+    "notes": "Lincoln Park renovation, 3 bathrooms"
+  },
+  {
+    "id": 3,
+    "so_number": "SO-2026-002",
+    "customer_name": "Gensler Chicago",
+    "customer_type": "designer",
+    "status": "draft",
+    "branch_id": 1,
+    "created_by": 1,
+    "created_at": "2026-06-23T14:15:00Z",
+    "notes": "Office building spec \u2014 8 powder rooms"
+  }
+]
