@@ -79,5 +79,14 @@
     "qty_picked": 0,
     "status": "pending",
     "notes": null
+  },
+  {
+    "so_id": 4,
+    "product_id": 1,
+    "qty_ordered": 1,
+    "qty_picked": 0,
+    "status": "pending",
+    "notes": null,
+    "id": 10
   }
 ]
