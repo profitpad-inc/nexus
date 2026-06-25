@@ -1,0 +1,21 @@
+meta {
+  name: Create Sales Order
+  type: http
+  seq: 3
+}
+
+post {
+  url: {{baseUrl}}/api/sales-orders
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "customer_name": "Studio McGee Design",
+    "customer_type": "designer",
+    "branch_id": 1,
+    "notes": "Gold Coast project — master bath",
+    "created_by": 1
+  }
+}

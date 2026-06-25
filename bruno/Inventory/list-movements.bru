@@ -1,0 +1,15 @@
+meta {
+  name: List Movements
+  type: http
+  seq: 2
+}
+
+get {
+  url: {{baseUrl}}/api/inventory/movements
+  body: none
+  auth: none
+}
+
+query {
+  branch_id: 1
+}

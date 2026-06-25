@@ -30,7 +30,7 @@ cd .. && ./start.sh
 
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8000
-- API docs: http://localhost:8000/docs
+- API collection: open `bruno/` in [Bruno](https://www.usebruno.com/) and select the **local** environment
 
 ## Project structure
 

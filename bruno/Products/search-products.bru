@@ -1,0 +1,16 @@
+meta {
+  name: Search Products
+  type: http
+  seq: 2
+}
+
+get {
+  url: {{baseUrl}}/api/products
+  body: none
+  auth: none
+}
+
+query {
+  q: kohler
+  active_only: true
+}

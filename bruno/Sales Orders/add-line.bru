@@ -1,0 +1,18 @@
+meta {
+  name: Add Line to Sales Order
+  type: http
+  seq: 4
+}
+
+post {
+  url: {{baseUrl}}/api/sales-orders/3/lines
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "product_id": 1,
+    "qty_ordered": 2
+  }
+}

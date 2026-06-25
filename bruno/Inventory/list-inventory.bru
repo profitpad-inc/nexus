@@ -1,0 +1,15 @@
+meta {
+  name: List Inventory
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{baseUrl}}/api/inventory
+  body: none
+  auth: none
+}
+
+query {
+  branch_id: 1
+}

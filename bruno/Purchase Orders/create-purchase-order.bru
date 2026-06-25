@@ -1,0 +1,25 @@
+meta {
+  name: Create Purchase Order
+  type: http
+  seq: 3
+}
+
+post {
+  url: {{baseUrl}}/api/purchase-orders
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "supplier": "Grohe",
+    "expected_date": "2026-07-15",
+    "branch_id": 1,
+    "notes": "Q3 shower systems restock",
+    "created_by": 2,
+    "lines": [
+      { "product_id": 16, "qty_ordered": 4 },
+      { "product_id": 18, "qty_ordered": 6 }
+    ]
+  }
+}

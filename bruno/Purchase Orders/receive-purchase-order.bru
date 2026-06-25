@@ -1,0 +1,40 @@
+meta {
+  name: Receive Purchase Order
+  type: http
+  seq: 4
+}
+
+post {
+  url: {{baseUrl}}/api/purchase-orders/2/receive
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "created_by": 3,
+    "lines": [
+      {
+        "line_id": 4,
+        "qty_received": 4,
+        "qty_damaged": 0,
+        "shelf_id": 3,
+        "notes": null
+      },
+      {
+        "line_id": 5,
+        "qty_received": 3,
+        "qty_damaged": 0,
+        "shelf_id": 4,
+        "notes": null
+      },
+      {
+        "line_id": 6,
+        "qty_received": 2,
+        "qty_damaged": 1,
+        "shelf_id": 4,
+        "notes": "One unit arrived with damaged box"
+      }
+    ]
+  }
+}

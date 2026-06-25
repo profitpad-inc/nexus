@@ -1,0 +1,23 @@
+meta {
+  name: Pick Sales Order
+  type: http
+  seq: 7
+}
+
+post {
+  url: {{baseUrl}}/api/sales-orders/2/pick
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "created_by": 3,
+    "lines": [
+      { "line_id": 3, "qty_picked": 2, "notes": null },
+      { "line_id": 4, "qty_picked": 1, "notes": null },
+      { "line_id": 5, "qty_picked": 2, "notes": null },
+      { "line_id": 6, "qty_picked": 1, "notes": null }
+    ]
+  }
+}

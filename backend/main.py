@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routers import branches, products, inventory, purchase_orders, sales_orders, shelves
 
-app = FastAPI(title="Nexus ERP — Hydrology Chicago", version="0.1.0")
+app = FastAPI(title="Nexus ERP — Hydrology Chicago", version="0.1.0", docs_url=None, redoc_url=None)
 
 app.add_middleware(
     CORSMiddleware,
